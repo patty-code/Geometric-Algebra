@@ -1,2 +1,2 @@
 # Geometric-Algebra
-PErsonal Studies
+Personal Studies
